@@ -1,0 +1,755 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:18.619 --> 00:00:31.460
+so welcome to the lecture on fundamental of
+vibrations so this is an introductory lecture
+
+00:00:31.460 --> 00:00:40.320
+let us discuss what is vibration as from the
+mechanical engineering aspects we will discuss
+
+00:00:40.320 --> 00:00:41.960
+the vibration
+
+00:00:41.960 --> 00:00:52.629
+so in general vibration is an oscillatory
+motion and it means that a motion that repeats
+
+00:00:52.629 --> 00:01:05.659
+itself after some interval of time so usually
+mechanical systems or mechanical components
+
+00:01:05.659 --> 00:01:20.970
+they are subjected to the repetitive motion
+i mean they repeat their motions so vibration
+
+00:01:20.970 --> 00:01:30.209
+usually occurs in mechanical systems because
+they are subjected to some forces and they
+
+00:01:30.209 --> 00:01:39.720
+are they have disturbed from their equilibrium
+positions so they start vibrating
+
+00:01:39.720 --> 00:01:52.640
+so vibration is type of oscillation a repetitive
+motion and these oscillations can be periodic
+
+00:01:52.640 --> 00:02:02.470
+as well as random so for example periodic
+so periodic like if there is a motion of a
+
+00:02:02.470 --> 00:02:14.140
+pendulum periodic means it has a fixed interval
+of time after which it repeats its motion
+
+00:02:14.140 --> 00:02:24.760
+and when it is random means there is no any
+fixed interval when it will repeat so periodic
+
+00:02:24.760 --> 00:02:41.150
+motion is the motion of a pendulum or the
+motion of a shaft due to unbalanced masses
+
+00:02:41.150 --> 00:02:50.769
+however the random motions when we have a
+vehicle that is passing on the road way and
+
+00:02:50.769 --> 00:03:01.829
+due to the road profile because the road profile
+is irregular so due to the effect of that
+
+00:03:01.829 --> 00:03:20.550
+road profile the motion of the vehicle or
+automobile that is random
+
+00:03:20.550 --> 00:03:28.480
+so here we can see that so i say that there
+is a pendulum and it is moving about some
+
+00:03:28.480 --> 00:03:36.930
+equilibrium point so equilibrium position
+is the position at rest when we leave the
+
+00:03:36.930 --> 00:03:51.249
+pendulum it will rest in this position however
+when it vibrates it will vibrate at this position
+
+00:03:51.249 --> 00:04:09.849
+and it may have a theta this degree of freedom
+similarly we have here you can see some profile
+
+00:04:09.849 --> 00:04:13.540
+of the displacement and time plot
+
+00:04:13.540 --> 00:04:22.000
+so we can see here this triangular profile
+it means this motion is going to repeat this
+
+00:04:22.000 --> 00:04:32.530
+triangle is going to repeat itself after a
+fixed interval of time so this time is fixed
+
+00:04:32.530 --> 00:04:43.569
+so this is the time that is fixed and therefore
+it is periodic similarly here this profile
+
+00:04:43.569 --> 00:04:56.250
+this motion is going to fix and that repeats
+after this fixed time and that therefore it
+
+00:04:56.250 --> 00:05:10.930
+is periodic motion similarly here we have
+a repetition of this wave profile it repeats
+
+00:05:10.930 --> 00:05:15.240
+from here and then again it start repeating
+its motion
+
+00:05:15.240 --> 00:05:23.220
+these are periodic but if you see this motion
+there is no any fixed time interval when it
+
+00:05:23.220 --> 00:05:36.310
+will repeat itself it is random motion so
+for example there is the wind forces and therefore
+
+00:05:36.310 --> 00:05:53.150
+the vibration of a tower due to this wind
+forces so these are the random vibration signals
+
+00:05:53.150 --> 00:06:04.400
+so now the next question is why mechanical
+system vibrates why there is vibration of
+
+00:06:04.400 --> 00:06:15.200
+mechanical systems why don’t they are static
+so as we know that every mechanical system
+
+00:06:15.200 --> 00:06:28.020
+has some mass and stiffness so any system
+that has some mass and stiffness that is prone
+
+00:06:28.020 --> 00:06:44.229
+to vibrations moreover the mechanical systems
+they are subjected to external forces as well
+
+00:06:44.229 --> 00:06:49.789
+as some forces that are generated inside the
+system
+
+00:06:49.789 --> 00:07:01.419
+for example if there is some internal combustion
+engine there are some unbalanced forces that
+
+00:07:01.419 --> 00:07:09.990
+are generated inside the system and due to
+the effect of those forces the system will
+
+00:07:09.990 --> 00:07:23.569
+vibrate and there are several external excitation
+forces for example there are earthquakes there
+
+00:07:23.569 --> 00:07:33.229
+are wind there are water waves so for example
+there is a boat or ship in the water in the
+
+00:07:33.229 --> 00:07:44.680
+sea or in the canal or river due to the waves
+because waves are external force and when
+
+00:07:44.680 --> 00:07:56.259
+they are applied on a system that has some
+stiffness and every mechanical system has
+
+00:07:56.259 --> 00:07:59.800
+some stiffness and mass
+
+00:07:59.800 --> 00:08:14.710
+and whenever that forces are applied on the
+system they make them vibrate 
+
+00:08:14.710 --> 00:08:24.150
+in mechanical systems there are some looseness
+between because there are connections between
+
+00:08:24.150 --> 00:08:38.320
+the two members and when there is some weak
+connections loose connections so 
+
+00:08:38.320 --> 00:08:44.870
+that can cause vibrations
+
+00:08:44.870 --> 00:08:54.690
+for example we can see here so here are some
+clearance so this is the bearings and the
+
+00:08:54.690 --> 00:09:08.290
+shaft if there is more clearance or here are
+the bolts that are supporting this motor that
+
+00:09:08.290 --> 00:09:16.690
+are connecting to the support of this motor
+if they are loose or more clearance is there
+
+00:09:16.690 --> 00:09:28.600
+there will be more vibrations and there are
+some mechanical systems like vibrating pumps
+
+00:09:28.600 --> 00:09:39.959
+vibrating motors the belts belt and pulley
+drives then vibrates the fan
+
+00:09:39.959 --> 00:09:49.560
+so these rotary systems they may have some
+eccentric masses they have some unbalanced
+
+00:09:49.560 --> 00:10:02.100
+masses and due to that unbalance they may
+have some vibrations
+
+00:10:02.100 --> 00:10:09.430
+so what is the effect of vibration now we
+have defined vibration we have defined the
+
+00:10:09.430 --> 00:10:15.950
+causes of vibration now we are to know what
+is the effect of vibration the effect is positive
+
+00:10:15.950 --> 00:10:35.910
+or negative so in general in mechanical systems
+in several applications we avoid or we do
+
+00:10:35.910 --> 00:10:43.490
+not want vibrations for example if we are
+in a train we are in automobiles we are in
+
+00:10:43.490 --> 00:11:01.310
+bus we do not want vibrations because the
+vibration causes discomfort to the passengers
+
+00:11:01.310 --> 00:11:15.040
+if we have some turbines there are plates
+and rotors the vibration can cause fatigue
+
+00:11:15.040 --> 00:11:26.730
+and failure of the turbine plates turbine
+rotors components and if there is some machine
+
+00:11:26.730 --> 00:11:34.410
+that is on some support and there is some
+vibration of the machine the vibration will
+
+00:11:34.410 --> 00:11:42.910
+transmit from that machine to the support
+and usually the support are on the floor and
+
+00:11:42.910 --> 00:11:50.269
+so the floor can vibrate and the people on
+the floor can feel that vibration
+
+00:11:50.269 --> 00:12:08.300
+and they can feel uncomfort uneasiness of
+the vibration due to vibration moreover due
+
+00:12:08.300 --> 00:12:20.170
+to the vibration there could be rapid wear
+of certain components like bearings and gears
+
+00:12:20.170 --> 00:12:31.320
+and due to that there could be generation
+of noise also so we can see we can see that
+
+00:12:31.320 --> 00:12:39.279
+in mechanical systems usually we are avoiding
+the vibration because vibration is going to
+
+00:12:39.279 --> 00:12:44.170
+have some harmful effects
+
+00:12:44.170 --> 00:12:54.829
+so we can see here they can a vibration can
+make the fasteners loose and if there is some
+
+00:12:54.829 --> 00:13:03.970
+vibration in the machine of the for example
+if it is cutting lathe machine ok so the tool
+
+00:13:03.970 --> 00:13:14.329
+can chatter and due to the vibration of the
+tool the we cannot achieve the required surface
+
+00:13:14.329 --> 00:13:21.990
+finish on the product that is machined so
+here we can see the two examples so one is
+
+00:13:21.990 --> 00:13:34.410
+this bridge and that is failed down due to
+that is collapsed due to the wind excitations
+
+00:13:34.410 --> 00:13:47.750
+as i said that the structure or systems they
+are subjected to wind loads and due to that
+
+00:13:47.750 --> 00:13:58.210
+they can vibrate and that vibration can lead
+because the theory of vibration is very vast
+
+00:13:58.210 --> 00:14:08.459
+and you will understand that in certain condition
+this vibration can lead to the failure of
+
+00:14:08.459 --> 00:14:16.610
+this phase and here in turbine blades there
+could be the failure after wind blades due
+
+00:14:16.610 --> 00:14:27.610
+to the fatigue that can be due to the vibration
+
+00:14:27.610 --> 00:14:36.570
+so as a mechanical engineer why should you
+study the vibration as we saw the examples
+
+00:14:36.570 --> 00:14:52.310
+and we find that the vibration in mechanical
+systems is undesirable we do not want vibrations
+
+00:14:52.310 --> 00:15:03.620
+and every mechanical system has some natural
+frequencies and if the force that is applied
+
+00:15:03.620 --> 00:15:13.060
+on the system and the frequency of that force
+coincides with the natural frequency of the
+
+00:15:13.060 --> 00:15:20.449
+system there is the resonance condition and
+in this condition the vibration amplitude
+
+00:15:20.449 --> 00:15:32.051
+of the system is quite large and the system
+can break and fail
+
+00:15:32.051 --> 00:15:43.459
+and as a mechanical engineer we should study
+to avoid this circumstances in any machine
+
+00:15:43.459 --> 00:15:53.290
+and therefore we should study the vibration
+we should study it why because we can remove
+
+00:15:53.290 --> 00:16:03.730
+the causes of identify and remove the causes
+of vibration in the designing stage or we
+
+00:16:03.730 --> 00:16:09.870
+can identify in the early stage if there is
+some problem of vibration we can identify
+
+00:16:09.870 --> 00:16:17.640
+we can know why it is and we can rectify the
+vibration causes
+
+00:16:17.640 --> 00:16:37.810
+nowadays if a system is existing and there
+is vibration problem and there is no any possibility
+
+00:16:37.810 --> 00:16:45.980
+to change the design of the system then we
+can design some devices that are known as
+
+00:16:45.980 --> 00:16:57.470
+dampers or vibration mitigation measures so
+we should study the vibration so that we can
+
+00:16:57.470 --> 00:17:05.350
+design the proper vibration mitigation strategy
+for a system in order to reduce the vibration
+
+00:17:05.350 --> 00:17:15.640
+for example if we have the train movement
+train motion and there is a vibration and
+
+00:17:15.640 --> 00:17:20.830
+there is primary and secondary suspension
+systems that are responsible for the reduction
+
+00:17:20.830 --> 00:17:22.370
+of the vibrations
+
+00:17:22.370 --> 00:17:29.970
+so we can design these suspensions properly
+so that we can reduce the vibration there
+
+00:17:29.970 --> 00:17:42.909
+are enough regions for you as a mechanical
+engineer to study the vibration
+
+00:17:42.909 --> 00:17:54.919
+of course vibration we saw that they are undesirable
+however some idea of vibration is used in
+
+00:17:54.919 --> 00:18:07.909
+positive sense in some industrial application
+for example if we have vibratory conveyors
+
+00:18:07.909 --> 00:18:14.419
+we have hoppers sieves washing machines they
+function they use the concept of vibration
+
+00:18:14.419 --> 00:18:33.460
+ok and vibration can be used in some machining
+processes to improve the products to improve
+
+00:18:33.460 --> 00:18:42.020
+the efficiency of the operation
+
+00:18:42.020 --> 00:18:56.140
+so we have studied some basics now again we
+come back to the periodic motion because we
+
+00:18:56.140 --> 00:19:05.549
+said that vibration is a repetitive motion
+and that repetition can be periodic or random
+
+00:19:05.549 --> 00:19:12.620
+so again we come to periodic motion and i
+said that periodic motion is a motion that
+
+00:19:12.620 --> 00:19:21.770
+repeats itself after a fixed interval of time
+so and we can see that that fixed interval
+
+00:19:21.770 --> 00:19:32.409
+is known as time period and reciprocal of
+that is known as frequency and frequency is
+
+00:19:32.409 --> 00:19:36.909
+the number of cycles per unit of time
+
+00:19:36.909 --> 00:19:46.130
+so here we can see this is the time period
+because that motion is going to repeat itself
+
+00:19:46.130 --> 00:19:53.360
+after t here it is the time period because
+this complete motion this is going to repeat
+
+00:19:53.360 --> 00:20:11.470
+itself and here this is the time period because
+it is going to repeat itself now we discuss
+
+00:20:11.470 --> 00:20:18.190
+a case of that of periodic motion that is
+simple harmonic motion so of course simple
+
+00:20:18.190 --> 00:20:26.789
+harmonic motion is a periodic motion also
+because it also repeats itself after a fixed
+
+00:20:26.789 --> 00:20:29.260
+interval of time
+
+00:20:29.260 --> 00:20:37.980
+however there is some additional features
+that additional features are that the acceleration
+
+00:20:37.980 --> 00:20:52.360
+is always proportional to the distance from
+the mean position the acceleration is proportional
+
+00:20:52.360 --> 00:21:03.740
+to the distance from the mean position and
+it is always directed to the mean position
+
+00:21:03.740 --> 00:21:10.340
+so a simple harmonic motion can be defined
+as a motion when a particle is moving on a
+
+00:21:10.340 --> 00:21:23.539
+circle the perpendicular on a diameter so
+a particle is moving on a circle with a constant
+
+00:21:23.539 --> 00:21:25.409
+angular velocity
+
+00:21:25.409 --> 00:21:35.450
+so if we draw a perpendicular on a diameter
+and we observe the motion of that perpendicular
+
+00:21:35.450 --> 00:21:41.000
+that motion is simple harmonic motion
+
+00:21:41.000 --> 00:21:52.510
+for example here we can see we have so this
+is a simple harmonic motion and that comes
+
+00:21:52.510 --> 00:22:02.360
+because here we have a particle if it is moving
+on a circle we draw a perpendicular here or
+
+00:22:02.360 --> 00:22:15.330
+here so we see we draw perpendicular and so
+the perpendicular is moving in this way
+
+00:22:15.330 --> 00:22:25.669
+and we can see here more clearly 
+so we have here the circle the point p that
+
+00:22:25.669 --> 00:22:39.220
+is moving here so if we draw so we can have
+here
+
+00:22:39.220 --> 00:22:49.320
+so this is a circle and a point p that is
+moving here with omega and constant angular
+
+00:22:49.320 --> 00:22:58.909
+velocity this is theta equal to omega t this
+is t equal to zero so if we draw a perpendicular
+
+00:22:58.909 --> 00:23:27.340
+here so this is if it is o and this is A this
+is B this is N so oN equal to oB sin theta
+
+00:23:27.340 --> 00:23:40.270
+and oB is the radius R so that is R and theta
+is omega t so R sin omega t if you say this
+
+00:23:40.270 --> 00:23:55.210
+is y then y equal to R sin omega t and this
+is a harmonic motion simple harmonic motion
+
+00:23:55.210 --> 00:24:07.510
+so we can say if it is this is A then this
+is A so A sin omega t now if we differentiate
+
+00:24:07.510 --> 00:24:21.279
+y dot that is A omega into cos omega t and
+y double dot equal to A omega square sin omega
+
+00:24:21.279 --> 00:24:36.360
+t minus so we can say equal to minus omega
+square into A sin omega t is y so y so this
+
+00:24:36.360 --> 00:24:48.040
+is what the acceleration is inversely proportion
+is proprotional to the displacement and with
+
+00:24:48.040 --> 00:24:55.760
+minus sign so that is the property of the
+simple harmonic motion
+
+00:24:55.760 --> 00:25:05.190
+so the time period is 2 pi by omega and frequency
+is omega by 2 pi where omega is angular frequency
+
+00:25:05.190 --> 00:25:27.740
+now we have degree of freedom so a system
+is set to have n degree of freedom if it needs
+
+00:25:27.740 --> 00:25:39.530
+n independent coordinates to specify completes
+its configuration at any instant of time so
+
+00:25:39.530 --> 00:25:48.299
+for example here we have this pendulum and
+this pendulum although this is x and this
+
+00:25:48.299 --> 00:25:56.960
+is y but they can be represented in terms
+of theta so theta is the only degree of freedom
+
+00:25:56.960 --> 00:26:05.279
+that can express its position of this mass
+at any instant of time
+
+00:26:05.279 --> 00:26:13.580
+here this is single degree of freedom system
+because it needs one degree of freedom mass
+
+00:26:13.580 --> 00:26:21.370
+that is moving in x direction this is angular
+degree of freedom because only the rotation
+
+00:26:21.370 --> 00:26:27.440
+here we have two masses moving in x direction
+so each mass needs one degree of freedom so
+
+00:26:27.440 --> 00:26:34.140
+this is the two degree of freedom system the
+system needs two degree of freedom
+
+00:26:34.140 --> 00:26:43.440
+so vibrating system what are the elements
+of vibrating system so vibrating system as
+
+00:26:43.440 --> 00:26:53.399
+i said that mechanical system that is prone
+to vibration if it has mass and stiffness
+
+00:26:53.399 --> 00:27:06.360
+so the function of mass is to store the kinetic
+energy and the function of spring is to store
+
+00:27:06.360 --> 00:27:21.309
+the potential energy and during vibration
+there is the exchange of these two energies
+
+00:27:21.309 --> 00:27:28.090
+however there is another element that is called
+damping element so the damping element it
+
+00:27:28.090 --> 00:27:30.559
+dissipates the energy
+
+00:27:30.559 --> 00:27:42.790
+so if a system wants to maintain its vibration
+it needs some external force so that its vibration
+
+00:27:42.790 --> 00:27:51.250
+could be retained otherwise due to the effect
+of damping the vibration amplitude will decay
+
+00:27:51.250 --> 00:28:02.490
+with the time so there are the damping is
+the resistance to the motion of the vibrating
+
+00:28:02.490 --> 00:28:11.070
+object and it dissipates the energy so there
+are basically three elements of mechanical
+
+00:28:11.070 --> 00:28:18.220
+system that is mass stiffness or a spring
+and damper
+
+00:28:18.220 --> 00:28:28.760
+so vibration is classified in two types of
+course the classification can be made in several
+
+00:28:28.760 --> 00:28:35.470
+ways but here the free vibration and forced
+vibration they are mainly classified because
+
+00:28:35.470 --> 00:28:42.919
+they are different types of vibrations so
+what is free vibration so free vibration it
+
+00:28:42.919 --> 00:29:00.799
+says it means there is no force so if we disturb
+a system by pulling it of a small amount and
+
+00:29:00.799 --> 00:29:10.590
+we leave it then the system will start vibrating
+and that is known as free vibration
+
+00:29:10.590 --> 00:29:21.120
+and that frequency of that vibration is the
+natural frequency of the vibration however
+
+00:29:21.120 --> 00:29:27.409
+if there is some external force applied on
+the system and the system is vibrating due
+
+00:29:27.409 --> 00:29:36.100
+to the effect of the under the effect of that
+force that is forced vibration and in the
+
+00:29:36.100 --> 00:29:43.850
+long run or in the steady stage the system
+will vibrate with the same frequency as of
+
+00:29:43.850 --> 00:29:50.309
+the external force
+
+00:29:50.309 --> 00:29:57.000
+so here are some examples of the free vibration
+i mean we disturb this woof in the water and
+
+00:29:57.000 --> 00:30:08.390
+it will come up and down this pendulum we
+disturb we pull it little theta then we leave
+
+00:30:08.390 --> 00:30:14.649
+it then it will start vibrating and it will
+vibrate with its natural frequency there is
+
+00:30:14.649 --> 00:30:23.110
+some string if we pull a string it will beat
+and if we leave it it will vibrate these are
+
+00:30:23.110 --> 00:30:32.669
+all examples of free vibrations however here
+are some motors and fans they are subjected
+
+00:30:32.669 --> 00:30:40.529
+to some unbalanced forces and so they are
+they vibrate under those forces and they are
+
+00:30:40.529 --> 00:30:42.500
+forced vibration case
+
+00:30:42.500 --> 00:30:48.669
+now there is also another type of classification
+known as undamped and damped vibration so
+
+00:30:48.669 --> 00:30:59.460
+undamped means there is no damping or damping
+is zero there is only mass and stiffness component
+
+00:30:59.460 --> 00:31:05.980
+and so there is no loss of energy in the system
+however damp vibration there is damping elements
+
+00:31:05.980 --> 00:31:15.559
+so there will be the loss of dissipation of
+energy 
+
+00:31:15.559 --> 00:31:24.970
+as we said that at resonance condition the
+vibration is very excessive of a system
+
+00:31:24.970 --> 00:31:35.950
+therefore to reduce that large amplitude vibration
+we need damping to bring that amplitude in
+
+00:31:35.950 --> 00:31:45.799
+some lower range so the role of damping is
+quite important then there are some linear
+
+00:31:45.799 --> 00:31:55.080
+and nonlinear vibrations so linear vibration
+means this behavior of dampers spring that
+
+00:31:55.080 --> 00:32:09.730
+is linear they behave in a linear way and
+we can the differential equation that is formed
+
+00:32:09.730 --> 00:32:12.399
+that is a linear differential equation
+
+00:32:12.399 --> 00:32:23.360
+however if stiffness is nonlinear or damping
+is nonlinear so we the differential equations
+
+00:32:23.360 --> 00:32:32.309
+will be nonlinear differential equation and
+these vibrations are termed as nonlinear vibrations
+
+00:32:32.309 --> 00:32:39.170
+so in case of linear vibration the principle
+of super position holds and we can take advantage
+
+00:32:39.170 --> 00:32:49.110
+of that therefore the linear systems are simpler
+analysis than the nonlinear systems so this
+
+00:32:49.110 --> 00:33:02.250
+is all about the introduction on the vibrations
+i thank you for attending this lecture and
+
+00:33:02.250 --> 00:33:04.070
+see you in the next lecture
+

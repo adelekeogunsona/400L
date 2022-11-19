@@ -1,0 +1,27 @@
+What is a Signal Flow Graph?
+SFG is a graphical representation of the relationship between the variables of a set of linear algebraic equations.
+
+Terms used for a Signal Flow Graph
+1. Node: It represents the system variable which equals to the sum of all signals. Outgoing signal from the node does not affect the value of node variables.
+2. Branch: Branch is defined as a path from one node to another node, in the direction indicated by the branch arrow.
+3. Input node or source: It is the node which has only outgoing branches.
+4. Output node or sink: It is a node which has only incoming branches.
+5. Mixed Node − It is a node, which has both incoming and outgoing branches.
+6. Forward Path: It is a path from an input node to an output node in the direction of branch arrow.
+7. Loop: It is a path that starts and ends at the same node.
+8. Non-touching loop: Loop is said to be non-touching if they do not have any common node.
+9. Forward path gain: A product of all branches gain along the forward path is called Forward path gain.
+10. Loop Gain: Loop gain is the product of branch gain which travels in the loop.
+
+Steps for solving signal flow graph of a control system
+SFG from system equations:
+First represent each variable of the equation by an individual node.
+Further, we know the value of the variable at a node is obtained by summing up all the signals that are coming to that node. So, draw the branches to that node accordingly.
+The coefficient of the variables present in an equation will be the gain of the branches that are joining the nodes.
+Furthermore, locate the input and output variables of the equations in the signal flow graph.
+
+SFG from Block Diagram:
+Here the summing and take-off points are represented by the nodes. Thus, all the summing and take-off points of the block diagram should be named and must indicate a specific node.
+Now, interconnect the various nodes using branches which was earlier connected through blocks in the block diagram representation.
+Also, the block transfer function will now act as branch gain of the corresponding branch.
+Further, show the input and output nodes individually in the signal flow graph to complete it.
